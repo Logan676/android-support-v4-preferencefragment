@@ -13,6 +13,6 @@ instead of
 
 You should add android-support-v4-preferencefragment as library according to http://developer.android.com/guide/developing/projects/projects-eclipse.html#ReferencingLibraryProject
 	
-Or download [the jar](https://dev.seafile.com/seahub/f/45df6a79b3/), and add it to the libs folder under your project.
+Or download [the jar](https://dev.seafile.com/seahub/f/45df6a79b3/), and add it to the libs folder under your project (if your IDE is eclipse).
 	
 	 
